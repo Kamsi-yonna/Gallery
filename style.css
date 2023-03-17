@@ -27,3 +27,11 @@ h1{
     object-fit: cover;
     transition: .5s;
 }
+
+.imagebox:hover{
+    flex-basis: 50%;
+}
+
+.active{
+    flex-basis: 50%;
+}
